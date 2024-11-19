@@ -15,6 +15,7 @@ Amount | Ingredient
 6 | allspice berries
 2 | star anise pods
 1 | Granny Smith apple
+
 ## Method
 ### Preparing wassail.
 1. Pour both the soft and hard ciders into a medium pot, and then stir in the brandy. Drop the ginger, cinnamon, coriander, cloves, allspice, and star anise into the pot. Warm the wassail over medium heat until steaming, and then turn down the heat to low. Cover the pot, and allow it to warm at least 20 minutes before serving.
