@@ -1,0 +1,17 @@
+site_name: The Food Book
+theme: 
+  name: material
+  palette:
+    primary: blue
+  icon:
+    logo: fontawesome/solid/utensils
+  features:
+    - navigation.instant
+    - navigation.tabs
+repo_url: https://github.com/timschieck/food
+site_url: https://timschieck.github.io/food/
+plugins:
+  - search
+  - tags
+extra:
+  generator: false
