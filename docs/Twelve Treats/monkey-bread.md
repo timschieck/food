@@ -10,7 +10,7 @@ source: Lisa Gerlings
 | 1/2 cup | cinnamon sugar mixture |
 | 2 sticks | butter |
 | 1 cup | sugar |
-|  |  |
+
 ## Method
 1. Cut biscuits into quarters and roll in cinnamon sugar mixture to coat thoroughly
 2. Melt the butter in a medium sauce pan and add sugar
