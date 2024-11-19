@@ -1,6 +1,7 @@
 ---
 tags: [twelve-treats]
 title: Roasted Chestnuts
+source: She Loves Biscotti
 ---
 ## Ingredients
 - 16 oz Chestnuts or as many as desired
@@ -12,6 +13,3 @@ title: Roasted Chestnuts
 4. Place the chestnuts with the flat side down, the cut side up in a single layer in your baking pan. Roast in the oven for about 15-20 minutes.
 5. Once you have obtained perfectly oven roasted chestnuts, remove from the oven and wrap them in a clean tea towel. Allow the wrapped chestnuts to sit in the towel for about 10-15 minutes.
 6. Serve immediately.
-
-_From She Loves Biscotti_
-#recipe #twelve-treats 

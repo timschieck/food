@@ -1,6 +1,7 @@
 ---
 tags: [dessert, twelve-treats]
 title: Plum Pudding
+source: Mary Berry
 ---
 ## Ingredients
 ### For Pudding
@@ -37,6 +38,3 @@ Amount | Ingredient
 9. For the brandy butter, place the butter into a mixing bowl and cream with a wooden spoon until light and fluffy – or for speed use an electric hand-held mixer. Beat in the sieved icing sugar until smooth, then add brandy, rum or cognac, to taste. Spoon into a serving dish, cover and set aside in the fridge.
 10. When cooked through, remove the pudding from the pan and cool completely. Discard the paper and foil and replace with fresh. Store in a cool, dry place.
 11. To serve, on Christmas Day, steam or boil the pudding for about two hours to reheat. Turn the pudding onto a serving plate. To flame, warm the brandy or rum in a small pan, pour it over the hot pudding and set light to it. Serve with brandy butter.
-
-_From Mary Berry_
-#recipe #dessert #twelve-treats 

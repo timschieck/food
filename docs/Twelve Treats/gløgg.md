@@ -1,6 +1,7 @@
 ---
 tags: [beverage, twelve-treats]
 title: Gløgg
+source: Visit Norway
 ---
 ## Ingredients
 
@@ -24,7 +25,4 @@ Amount | Ingredient
 5. Add the aquavit to the pan and place over medium-high heat. 
 6. Heat until just before mixture reaches a boil. 
 7. Add raisins and almonds. 
-8. Transfer mixture to a punchbowl, remove the spice bag and ladle into large glass cups with little spoons, scooping up raisins and almonds. _Serves 8._
-
-_From Visit Norway_
-#recipe #beverage #twelve-treats 
+8. Transfer mixture to a punchbowl, remove the spice bag and ladle into large glass cups with little spoons, scooping up raisins and almonds. _Serves 8.

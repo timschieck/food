@@ -1,6 +1,7 @@
 ---
 tags: [twelve-treats, bread]
 title: Stollen
+source: Daring Gourmet
 ---
 ## Ingredients
 ### For the Dough:
@@ -43,6 +44,3 @@ Amount | Ingredient
 5. Turn the dough out onto a floured work surface and cut it in two equal halves.  Press or roll each piece into an oval to about 1 inch thickness.  Roll each piece of marzipan into a log the length of the oval.  Press the marzipan gently into the middle of the dough.  Fold the left side of the dough over to cover the marzipan, then fold right side over on top of the left side so that the edge of it sits just left of the middle of the stollen (see pics).  In other words, don't fold the right side all the way over to the left edge of the stollen.  Pinch and tuck the top and bottom ends of the stollen to cover the marzipan.  Use the bottom edge of your hand to press down along the length of the stollen towards the right of the center to create a divot and characteristic hump (see pics).  Place the stollen on a lined baking sheet.  Cover the stollen loosely with plastic wrap and let them rest in a warm place or lightly warmed oven for 40-60 minutes until puffy.  At that point you can pick off any raisins that are sticking out of the dough (they will burn during baking).  
 6. Towards the end of the last rise, preheat the oven to 350 degrees F and bake the stollen for 30-40 minutes or until golden.  You can use an instant read thermometer to aim for an internal temperature of 190 degrees F.  Let the Stollen sit for 5 minutes, then use a toothpick to poke holes all over the stollen (this will allow the butter to seep in), then generously brush the stollen with the melted butter while the stollen are still warm.  Immediately sprinkle with a generous amount of powdered sugar, rubbing it into the creases and down the sides.  Let the stollen cool completely.  You may want to give it another dusting of powdered sugar once cooled.
 7. The stollen can be sliced and eaten now or wrapped tightly (wrap in plastic wrap then foil) and left to "ripen" in a cool place for 2 weeks. The liquid from the dried fruits will further penetrate the dough for more flavor and moisture. Stollen can also be frozen for longer storage.
-
-_From Daring Gourmet_
-#recipe #twelve-treats #bread 

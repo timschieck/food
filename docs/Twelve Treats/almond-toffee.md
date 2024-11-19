@@ -1,6 +1,7 @@
 ---
 tags: [twelve-treats, dessert]
 title: Almond Toffee
+source: All Recipes
 ---
 ## Ingredients
 Amount | Ingredient
@@ -16,6 +17,3 @@ Amount | Ingredient
 2. While the toffee is cooking, cover a large baking sheet with aluminum foil or parchment paper.
 3. As soon as the toffee reaches the proper temperature, pour it out onto the prepared baking sheet. Sprinkle the chocolate over the top, and let it set for a minute or two to soften. Spread the chocolate into a thin even layer once it is melted. Sprinkle the nuts over the chocolate, and press in slightly. Putting a plastic bag over your hand will minimize the mess.
 4. Place the toffee in the refrigerator to chill until set. Break into pieces, and store in an airtight container.
-
-_From All Recipes_
-#recipe #twelve-treats #dessert 

@@ -8,8 +8,3 @@ Use at your own risk.
 
 _Tim Schieck_
 _January 8th, 2021_
-```dataview
-TABLE
-FROM #twelve-treats 
-SORT file.name asc
-```

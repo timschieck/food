@@ -1,6 +1,7 @@
 ---
 tags: [breakfast, bread, twelve-treats]
 title: Monkey Bread
+source: Lisa Gerlings
 ---
 ## Ingredients
 | Amount | Ingredient |
@@ -17,6 +18,3 @@ title: Monkey Bread
 4. Pour 1/2 of butter sugar mixture over biscuits
 5. Add remaining biscuits and pour rest of butter sugar mixture
 6. Bake at 350° for 35-40 minutes
-
-_From Lisa Gerlings_
-#recipe #breakfast #bread #twelve-treats 

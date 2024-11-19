@@ -27,5 +27,3 @@ Amount | Ingredient
 6. On a lightly floured surface, roll out pieces of the dough to a thickness of about 0.5 cm (even slightly less) and cut into shapes as desired. Place on a prepared baking sheet.
 7. Bake in the center of the oven for about 10-12 minutes. You want the edges to brown a little and crisp up. Cool on a wire rack.
 8. You can decorate the pepperkaker with icing or powdered sugar or anything else your heart desires. Store in cookie tins and enjoy!
-
-#recipe #dessert #twelve-treats 

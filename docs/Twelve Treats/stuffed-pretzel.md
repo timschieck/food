@@ -1,6 +1,7 @@
 ---
 tags: [twelve-treats, bread]
 title: Stuffed Pretzel
+source: Alton Brown
 ---
 ## Ingredients
 ### For Pretzel dough
@@ -33,6 +34,3 @@ To make stuffed pretzels decide on what you would like to stuff them with and pr
 10. Make a U-shape with the rope, and, holding the ends of the rope, cross them over each other and press onto the bottom of the U in order to form the shape of a pretzel. Place on a half-sheet pan. Repeat with the remaining pieces of dough.
 11. One by one, place the pretzels in the boiling water for 30 seconds. Remove them from the water using a large flat spatula. Return them to the sheet pans, brush the top of each pretzel with the beaten egg yolk and water mixture, and sprinkle with pretzel salt.
 12. Bake until dark golden brown in color, 12 to 14 minutes. Transfer to a wire rack for at least 5 minutes before serving.
-
-_Modified from Alton Brown_
-#recipe #twelve-treats #bread 

@@ -1,6 +1,7 @@
 ---
 tags: [beverage, twelve-treats]
 title: Wassail
+source: Nourished Kitchen
 ---
 ## Ingredients
 Amount | Ingredient
@@ -21,6 +22,3 @@ Amount | Ingredient
 ### Serving wassail.
 1. To serve, strain the wassail through a fine-mesh sieve into mugs or a serving bowl. Garnish with apple slices.
 2. You can store prepared wassail in the fridge for up to 3 days. To serve, warm it on the stove over low heat until pleasantly hot.
-
-_From Nourished Kitchen_
-#recipe #beverage #twelve-treats 

@@ -2,7 +2,6 @@
 tags:
   - dessert
   - twelve-treats
-  - recipe
 title: Candy Canes
 source: The Spruce Eats
 ---
